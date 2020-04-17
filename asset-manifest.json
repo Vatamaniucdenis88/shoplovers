@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/shoplovers/static/css/main.a30e6fe2.chunk.css",
+    "main.js": "/shoplovers/static/js/main.ff535555.chunk.js",
+    "main.js.map": "/shoplovers/static/js/main.ff535555.chunk.js.map",
+    "runtime-main.js": "/shoplovers/static/js/runtime-main.76af58b4.js",
+    "runtime-main.js.map": "/shoplovers/static/js/runtime-main.76af58b4.js.map",
+    "static/css/2.e49e09ab.chunk.css": "/shoplovers/static/css/2.e49e09ab.chunk.css",
+    "static/js/2.f45e6087.chunk.js": "/shoplovers/static/js/2.f45e6087.chunk.js",
+    "static/js/2.f45e6087.chunk.js.map": "/shoplovers/static/js/2.f45e6087.chunk.js.map",
+    "index.html": "/shoplovers/index.html",
+    "precache-manifest.74fb796cecffdbfbc38b8111478b1222.js": "/shoplovers/precache-manifest.74fb796cecffdbfbc38b8111478b1222.js",
+    "service-worker.js": "/shoplovers/service-worker.js",
+    "static/css/2.e49e09ab.chunk.css.map": "/shoplovers/static/css/2.e49e09ab.chunk.css.map",
+    "static/css/main.a30e6fe2.chunk.css.map": "/shoplovers/static/css/main.a30e6fe2.chunk.css.map",
+    "static/js/2.f45e6087.chunk.js.LICENSE.txt": "/shoplovers/static/js/2.f45e6087.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/shoplovers/static/media/1.0793d4ee.jpg",
+    "static/media/10.jpg": "/shoplovers/static/media/10.fe4a9118.jpg",
+    "static/media/4.jpg": "/shoplovers/static/media/4.b19acdbf.jpg",
+    "static/media/5.jpg": "/shoplovers/static/media/5.9640419f.jpg",
+    "static/media/6.jpg": "/shoplovers/static/media/6.a19d30a3.jpg",
+    "static/media/7.jpg": "/shoplovers/static/media/7.1f0e62da.jpg",
+    "static/media/8.jpg": "/shoplovers/static/media/8.9b455bd6.jpg",
+    "static/media/9.jpg": "/shoplovers/static/media/9.823a4516.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76af58b4.js",
+    "static/css/2.e49e09ab.chunk.css",
+    "static/js/2.f45e6087.chunk.js",
+    "static/css/main.a30e6fe2.chunk.css",
+    "static/js/main.ff535555.chunk.js"
+  ]
+}
