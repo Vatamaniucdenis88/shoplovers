@@ -36,3 +36,43 @@
     transform: rotate(360deg);
   }
 }
+.topbar{display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+
+
+.Top{
+background: rgb(2,0,36);
+background: linear-gradient(35deg, rgba(2,0,36,1) 0%, rgba(36,91,94,1) 100%, rgba(0,0,0,0.3452731434370623) 100%);
+}
+
+.carouselcontainer1{
+ 
+  width: 100%;
+  
+  display: flex;
+  justify-content: center;
+ background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(218,210,11,1) 0%, rgba(222,240,124,1) 100%, rgba(0,212,255,1) 100%);
+
+}
+.carouselcontainer{
+  width: 50%;
+}
+@media only screen and (max-width: 600px) {
+ .carouselcontainer{  width: 90%;}
+}
+
+ .modal-container{
+display: flex;
+justify-content: center;
+ }
+@media only screen and (max-width: 600px) {
+.topbar{display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+}

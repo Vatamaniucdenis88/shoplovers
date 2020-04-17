@@ -1,0 +1,12 @@
+.Navbardowncontainer{
+
+	display: flex;
+	justify-content: center;
+}
+
+.Navbardowncontainer2{
+	margin: 10px;
+	font-size: 25px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #f2e820;
+}

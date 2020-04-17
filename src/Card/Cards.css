@@ -1,0 +1,10 @@
+.cardcontainer{
+  width: 100%;
+  
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(7,59,154,1) 41%, rgba(0,212,255,1) 100%);
+
+  }
